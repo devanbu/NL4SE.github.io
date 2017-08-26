@@ -1,2 +1,2 @@
 # nlse-fse.github.io
-NLSE workshop site for FSE 2016
+This the home page for the AAAI 2018 workshop on code naturalness. 
